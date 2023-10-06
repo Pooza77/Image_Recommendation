@@ -1,0 +1,26 @@
+ProductId,Gender,Category,SubCategory,ProductType,Colour,Usage,ProductTitle,Image,ImageURL
+1636,Men,Footwear,Shoes,Sports Shoes,White,Sports,Nike Men Air Zoom Century Shoes,1636.jpg,http://assets.myntassets.com/v1/images/style/properties/7c80fca789c5c1863a4080d7ed57acf0_images.jpg
+1637,Men,Footwear,Shoes,Sports Shoes,White,Sports,Nike Men White Cricket Shoes,1637.jpg,http://assets.myntassets.com/v1/images/style/properties/0ac13b20762f7542baadcb2472855437_images.jpg
+1653,Men,Footwear,Shoes,Sports Shoes,Brown,Sports,Reebok Men's Ventilator Ubiq Shoe,1653.jpg,http://assets.myntassets.com/v1/images/style/properties/349e9cdd07258c3f4254065dcad69c3e_images.jpg
+1654,Men,Footwear,Shoes,Sports Shoes,White,Sports,Reebok Men's Frisker LP Shoe,1654.jpg,http://assets.myntassets.com/v1/images/style/properties/271493f761fcb4583542bad929fb3d99_images.jpg
+1806,Men,Footwear,Sandal,Sandals,Brown,Casual,Quechua Men Arpenaz Brown Sandal,1806.jpg,http://assets.myntassets.com/v1/images/style/properties/1e404f8311c96db483657b8ef4113d56_images.jpg
+1831,Men,Footwear,Shoes,Sports Shoes,Black,Sports,Nike Men's Air Impetus Shoe,1831.jpg,http://assets.myntassets.com/v1/images/style/properties/2b7f6813cc0aebb2e517ddee5cf57830_images.jpg
+1836,Men,Footwear,Shoes,Sports Shoes,Silver,Sports,Nike Air Visi Sleek Shoes,1836.jpg,http://assets.myntassets.com/v1/images/style/properties/cae015b083e7581db36c6df436b7ef80_images.jpg
+2211,Men,Footwear,Sandal,Sandals,Navy Blue,Casual,Puma Men Trek Navy Blue Floater,2211.jpg,http://assets.myntassets.com/v1/images/style/properties/489285fce42ff6b4a5d6be37c26a971d_images.jpg
+41991,Boys,Apparel,Topwear,Shirts,Black,Casual,Gini and Jony Boys Check Black Shirt,41991.jpg,http://assets.myntassets.com/v1/images/style/properties/7dde006624cdd306847f38bbf4d82f82_images.jpg
+42778,Boys,Apparel,Topwear,Tshirts,Green,Casual,Allen Solly Kids Green T-shirt,42778.jpg,http://assets.myntassets.com/v1/images/style/properties/309613fd4673355df68c9d6244fcfdbe_images.jpg
+43581,Boys,Apparel,Topwear,Shirts,White,Casual,Gini and Jony Boys White Shirt,43581.jpg,http://assets.myntassets.com/v1/images/style/properties/76113a914367d2d043b4b01e47aae952_images.jpg
+43582,Boys,Apparel,Topwear,Shirts,White,Casual,Gini and Jony Boys White Check Shirt,43582.jpg,http://assets.myntassets.com/v1/images/style/properties/55d6c3cea8c394967f6a929b20817588_images.jpg
+43587,Boys,Apparel,Topwear,Shirts,Navy Blue,Casual,Gini and Jony Boys Blue Shirts,43587.jpg,http://assets.myntassets.com/v1/images/style/properties/Gini-and-Jony-Boys-Shirt-White-Shirts_063565ef1045cd5281fd86d183afbf95_images.jpg
+43689,Boys,Apparel,Topwear,Tshirts,Red,Casual,Doodle Boys Printed Red T-shirt,43689.jpg,http://assets.myntassets.com/v1/images/style/properties/070a0621f22e54d33bfceacbcbf87f2b_images.jpg
+50720,Girls,Apparel,Dress,Dresses,Orange,Casual,Doodle Girls Orange Printed Dress,50720.jpg,http://assets.myntassets.com/v1/images/style/properties/c96f349583cbaeb1bd798f76b446f4a3_images.jpg
+50721,Girls,Apparel,Dress,Dresses,Pink,Casual,Doodle Girls Pink Printed Dress,50721.jpg,http://assets.myntassets.com/v1/images/style/properties/8cb3dbe21deed6e53c4eaca084d65c00_images.jpg
+50722,Girls,Apparel,Dress,Dresses,Pink,Casual,Doodle Girls Pink Printed Dress,50722.jpg,http://assets.myntassets.com/v1/images/style/properties/5aa2891f267718d2ab17591a1f9f449c_images.jpg
+50724,Girls,Apparel,Dress,Dresses,Blue,Casual,Doodle Girls Blue Washed Dress,50724.jpg,http://assets.myntassets.com/v1/images/style/properties/8f184224331047aa5fc5b0041b04dc53_images.jpg
+52125,Girls,Apparel,Dress,Dresses,Pink,Casual,Doodle Girls Pink Printed Dress,52125.jpg,http://assets.myntassets.com/v1/images/style/properties/2210e932090741098a9755e785bf2a3e_images.jpg
+52130,Girls,Apparel,Dress,Dresses,Blue,Casual,Doodle Girls Blue Printed Dress,52130.jpg,http://assets.myntassets.com/v1/images/style/properties/abb64251bc6bf52e4a3b855bc4edb4dd_images.jpg
+2629,Women,Footwear,Shoes,Flats,Black,Casual,Carlton London Women Four Strapped Black Sandal,2629.jpg,http://assets.myntassets.com/v1/images/style/properties/3c1282e51eb6c43ff789db59376f9c02_images.jpg
+2900,Women,Footwear,Shoes,Heels,Silver,Casual,Catwalk Women Wedding Collection Silver Heels,2900.jpg,http://assets.myntassets.com/v1/images/style/properties/7a9831345651cc31b67657574d22d661_images.jpg
+2901,Women,Footwear,Shoes,Heels,Black,Formal,Catwalk Women Corporate Leather Black Heels,2901.jpg,http://assets.myntassets.com/v1/images/style/properties/e62f6bac3697e424e9c42727bdf08079_images.jpg
+3134,Women,Footwear,Shoes,Heels,Silver,Casual,Catwalk Women Flat Studded Crystal Silver Flats,3134.jpg,http://assets.myntassets.com/v1/images/style/properties/513613320d9fb0f3d3e7debe088314e1_images.jpg
+3135,Women,Footwear,Shoes,Heels,Gold,Casual,Catwalk Women Heeded Golden Strap Black Heels,3135.jpg,http://assets.myntassets.com/v1/images/style/properties/33297561a7540d13c77164a3bbe276e4_images.jpg
